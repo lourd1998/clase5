@@ -1,0 +1,64 @@
+.img { background-image: url(https://image.freepik.com/foto-gratis/retrato-grupo-adorables-cachorros_53876-64778.jpg);
+       margin: 0px; height: 265px;
+}
+h1 {  color:rgba(248, 167, 60, 0.966) ; font-family: 'Times New Roman', Times, serif ;font-size: 40px;
+       text-align: center; margin-top: 0px;
+}
+.navbar {
+    margin:0px ; display: flex; height: 228px;
+}
+.ulflex {
+display: flex; flex-direction: row; list-style: none; margin: 0px;
+}
+a{ 
+    color:rgba(248, 167, 60, 0.966); margin: 10px; font-size: 25px ;
+
+}
+aside{
+   display: flex;
+   flex-direction: column;
+   background-color: red;
+   width: 18%;
+   padding-bottom: 2em;
+}
+main{    
+    width: 82%;
+    background-color: rgb(252, 233, 173);
+   
+}
+ .cuerpo{
+    display: flex;
+    flex-direction: row;
+} 
+.lista {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.categ {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 70px;
+}
+a h3 {
+    color: rgb(127, 168, 243);
+}
+main h2 {
+    color: cornflowerblue;
+    font-size: 40px;
+    margin-left: 25px;
+}
+.lista p {
+    color: crimson;
+    
+}
+
+/* .menucatalog {
+    
+}
+#quienessomos {
+
+} */
